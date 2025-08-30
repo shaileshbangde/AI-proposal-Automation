@@ -1,2 +1,3 @@
-# AI-proposal-Automation
-Automates insurance policy proposal generation using ChatGPT, Google Forms, Apps Script, and document workflows.
+# AI-Powered Proposal Automation
+
+This project uses OpenAI, Google Forms, Apps Script, and Google Drive to automate proposal generation for insurance.
