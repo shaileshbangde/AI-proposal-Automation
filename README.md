@@ -1,3 +1,3 @@
-# AI-Powered Proposal Automation
+# CRM Pipeline AI Forecaster
 
-This project uses OpenAI, Google Forms, Apps Script, and Google Drive to automate proposal generation for insurance.
+Forecast deal closure rates and automate CRM updates using predictive models and AI scoring via Zapier integration.
